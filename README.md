@@ -26,8 +26,8 @@ This project is a complete **React + Django REST Framework** example that includ
 ### 1️⃣ Clone the Project
 
 ```bash
-git clone <YOUR_REPO_URL>
-cd <YOUR_REPO_FOLDER>
+git clone https://github.com/Soh3yl/django_react
+cd django_react
 ```
 
 ### 2️⃣ Backend Setup
