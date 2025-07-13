@@ -232,17 +232,12 @@ Ideas for extending the project:
 
 ## 👤 Author
 
-This project was developed as an educational example by [Your Name].
+This project was developed as an educational example by [Soheyl Mohammadi].
 For support or collaboration:
 
-📧 Email: your.email@example.com  
-🌐 Website: yourwebsite.com  
-🐙 GitHub: yourgithub  
+📧 Email: soh3yl.md@gmail.com  
+🐙 GitHub: https://github.com/Soh3yl  
 
 ---
-
-## 🌟 License
-
-This project is released under the MIT License. Free to use.
 
 ⭐ If the project was helpful to you, I'd be happy if you Star it!
